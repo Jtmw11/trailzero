@@ -1,0 +1,12 @@
+[
+{
+    "name": "scenarios.cliff.get_down.title",
+    "description": "scenarios.cliff.get_down.description",
+    "authors": "BeamNG",
+    "difficulty": "70",
+    "date": 1432640674,
+    "lapConfig": ["get_down_finish"],
+    "prefabs": ["cliff_down"],
+    "radiusMultiplierAI": 3
+},
+]

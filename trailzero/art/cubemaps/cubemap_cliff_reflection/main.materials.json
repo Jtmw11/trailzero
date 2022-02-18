@@ -1,0 +1,24 @@
+{
+  "cubemap_cliff_reflection" : {
+    "name" : "cubemap_cliff_reflection",
+    "class" : "CubemapData",
+    "cubeFace" : [
+      "/levels/trailzero/art/cubemaps/cubemap_cliff_reflection/cubemap/skybox0.hdr.dds",
+      "/levels/trailzero/art/cubemaps/cubemap_cliff_reflection/cubemap/skybox1.hdr.dds",
+      "/levels/trailzero/art/cubemaps/cubemap_cliff_reflection/cubemap/skybox2.hdr.dds",
+      "/levels/trailzero/art/cubemaps/cubemap_cliff_reflection/cubemap/skybox3.hdr.dds",
+      "/levels/trailzero/art/cubemaps/cubemap_cliff_reflection/cubemap/skybox4.hdr.dds",
+      "/levels/trailzero/art/cubemaps/cubemap_cliff_reflection/cubemap/skybox5.hdr.dds"
+    ]
+  },
+  "wca_reflection" : {
+    "name" : "wca_reflection",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "Stages" : [ {}, {}, {}, {} ],
+    "cubemap" : "cubemap_cliff_reflection",
+    "materialTag0" : "beamng",
+    "materialTag1" : "Natural",
+    "materialTag2" : "BNG_sky"
+  }
+}

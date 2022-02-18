@@ -1,0 +1,23 @@
+{
+  "title": "Trail Zero",
+  "description": "levels.Cliff.info.description",
+  "previews":[
+    "Cliff_preview1.jpg",
+    "Cliff_preview2.jpg",
+    "Cliff_preview3.jpg"
+  ],
+  "size": [2048,2048],
+  "biome": "levels.Cliff.info.biome",
+  "roads": "levels.Cliff.info.roads",
+  "suitablefor": "levels.Cliff.info.suitablefor",
+  "features": "levels.Cliff.info.features",
+  "authors": "BeamNG",
+  "defaultSpawnPointName":"spawn_hill_top",
+  "spawnPoints":[
+    {
+      "translationId":"levels.Cliff.spawnpoints.hill",
+      "objectname":"spawn_hill_top",
+      "preview":"Cliff_preview1.jpg"
+    },
+  ],
+}
