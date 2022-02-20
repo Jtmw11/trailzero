@@ -9,7 +9,6 @@
 {"name":"ForestBrush_Grass_mesh","internalName":"Grass_mesh","class":"ForestBrush","persistentId":"4e2b2474-4ecc-4ad8-b39d-59c0d94c8e3f","__parent":"ForestBrushGroup","forestItemData":"Grass_mesh"}
 {"name":"ForestBrush_vines","internalName":"vines","class":"ForestBrush","persistentId":"80a5c6fd-2194-42b2-b8cd-c14394df3458","__parent":"ForestBrushGroup","forestItemData":"vines"}
 {"name":"ForestBrush_Trees_Beech","internalName":"Trees_Beech","class":"ForestBrush","persistentId":"9b89ba06-d509-4cbd-9e1a-8f08fe676b12","__parent":"ForestBrushGroup","forestItemData":"Trees_Beech"}
-{"name":"ForestBrush_Brush","internalName":"Brush","class":"ForestBrush","persistentId":"afceacd5-2d26-417f-95b9-4bac270b8d03","__parent":"ForestBrushGroup"}
 {"name":"ForestBrush_rocks_01_a_large","internalName":"rocks_01_a_large","class":"ForestBrush","persistentId":"b9d28102-de42-4a18-a545-05afda0db204","__parent":"ForestBrushGroup","forestItemData":"rocks_01_a_large"}
 {"name":"ForestBrush_Lush","internalName":"Lush","class":"ForestBrush","persistentId":"c24217ee-c8c2-4fe0-8c2d-054258a0b548","__parent":"ForestBrushGroup","forestItemData":"Lush"}
 {"name":"ForestBrush_Trees_Blocker","internalName":"Trees_Blocker","class":"ForestBrush","persistentId":"c355f023-eb35-4fca-9c1e-748cfbe6583f","__parent":"ForestBrushGroup","forestItemData":"Trees_Blocker"}
@@ -40,7 +39,9 @@
 {"internalName":"vine_bush_large","class":"ForestBrushElement","persistentId":"2a29266c-ca9f-4c79-b0f0-72f868ac278e","__parent":"ForestBrush_vines","forestItemData":"vine_bush_large"}
 {"internalName":"tree_beech_bush_b","class":"ForestBrushElement","persistentId":"2b513f3d-7cf5-43d4-9788-f809eb0bfd9f","__parent":"ForestBrush_Bushes_large","forestItemData":"tree_beech_bush_b","slopeMax":40}
 {"internalName":"tree_aspen_forest_b","class":"ForestBrushElement","persistentId":"2d809313-398d-437a-b9ac-2bb57bc80933","__parent":"ForestBrush_Trees_Aspen","forestItemData":"tree_aspen_forest_b","scaleMax":1.20000005,"scaleMin":0.800000012,"sinkMax":2,"slopeMax":25}
+{"internalName":"Element5","class":"ForestBrushElement","persistentId":"2f9ea22a-976e-431a-ad31-e4f24365dbb9","__parent":"ForestBrushGroup","forestItemData":"italy_rockface_tall_narrow"}
 {"internalName":"tree_douglasfir_large_b","class":"ForestBrushElement","persistentId":"30773ac0-71ae-4962-830b-ac82d8f50b61","__parent":"ForestBrush_Trees_Douglas_Fir","forestItemData":"tree_douglasfir_large_b","scaleMax":1.29999995,"scaleMin":0.899999976,"sinkMax":1,"slopeMax":40}
+{"internalName":"Element6","class":"ForestBrushElement","persistentId":"343ac4cc-90e9-484f-aa5b-f6af2a0e2519","__parent":"ForestBrushGroup","forestItemData":"italy_rockface_tall_wide"}
 {"internalName":"tree_aspen_small_c","class":"ForestBrushElement","persistentId":"36cfda7a-4c84-42d8-82d7-0d9aa9cb19a8","__parent":"ForestBrush_Trees_Aspen","forestItemData":"tree_aspen_small_c","probability":0.5,"scaleMax":1.5,"scaleMin":0.899999976,"sinkMax":1,"slopeMax":25}
 {"internalName":"tree_aspen_small_a","class":"ForestBrushElement","persistentId":"3940d54b-b4e2-482e-88b7-7803d30b8ea4","__parent":"ForestBrush_Trees_Aspen","forestItemData":"tree_aspen_small_a","probability":0.5,"scaleMax":1.5,"scaleMin":0.899999976,"sinkMax":0.5,"slopeMax":25}
 {"internalName":"lush_grass_01_a","class":"ForestBrushElement","persistentId":"3f27bc1f-77b9-43dc-989f-22fb78c90c3c","__parent":"ForestBrush_NeedFix","forestItemData":"lush_grass_01_a"}
@@ -90,7 +91,6 @@
 {"internalName":"vine_wall_small","class":"ForestBrushElement","persistentId":"86b0b15c-2ac6-42cf-9bff-efd131cc834f","__parent":"ForestBrush_vines","forestItemData":"vine_wall_small","scaleMax":1.20000005,"scaleMin":0.800000012}
 {"internalName":"utah_rock_small_a","class":"ForestBrushElement","persistentId":"8949c941-0fb5-4efa-aa5d-fbc1a20ceb44","__parent":"ForestBrush_utah_rocks_small","probability":0.300000012,"scaleMax":1.20000005,"scaleMin":0.800000012,"slopeMax":45}
 {"internalName":"tree_aspen_overhang_a","class":"ForestBrushElement","persistentId":"8a622159-5cd9-462c-9a32-08984d13e33c","__parent":"ForestBrush_Trees_Aspen","forestItemData":"tree_aspen_overhang_a","scaleMax":1.29999995,"scaleMin":0.899999976,"sinkMax":1,"slopeMax":25}
-{"internalName":"Element1","class":"ForestBrushElement","persistentId":"8add78a9-4146-4253-af26-c75cb66e0bae","__parent":"ForestBrush_Brush"}
 {"internalName":"tree_aspen_small_low_group","class":"ForestBrushElement","persistentId":"8c671767-540c-47a7-a97a-88f6fdb6e52c","__parent":"ForestBrush_Trees_Aspen","forestItemData":"tree_aspen_small_low_group","probability":1.5,"scaleMax":1.5,"scaleMin":0.899999976,"sinkMax":0.699999988}
 {"internalName":"lush_ferns_02_a","class":"ForestBrushElement","persistentId":"8da1eadf-4a5d-4b3c-a52a-0db403a4ed5b","__parent":"ForestBrush_Lush","elevationMin":39.3041992,"forestItemData":"lush_ferns_02_a","scaleMax":1.20000005,"scaleMin":0.800000012,"slopeMax":30}
 {"internalName":"oak_bush_c","class":"ForestBrushElement","persistentId":"8dfac94f-f5e3-40cc-ae78-a4078432d517","__parent":"ForestBrush_Trees_oak","scaleMax":1.29999995,"scaleMin":0.699999988,"slopeMax":25}
@@ -114,7 +114,6 @@
 {"internalName":"ExampleElement","class":"ForestBrushElement","persistentId":"b279d472-306e-4027-ae96-a9c11caef124","__parent":"ForestBrush_ExampleForestBrush","clumpCountExponent":"1","clumpCountMax":"1","clumpCountMin":"1","clumpRadius":"10","scaleExponent":0.200000003,"scaleMax":2,"sinkMax":0.100000001,"sinkRadius":0.25,"slopeMax":30}
 {"internalName":"vine_wall_wide_a","class":"ForestBrushElement","persistentId":"b36dbc78-7eb6-4102-9228-2719e262b688","__parent":"ForestBrush_vines","forestItemData":"vine_wall_wide_a","scaleMax":1.20000005,"scaleMin":0.800000012}
 {"internalName":"utah_rock_small_d","class":"ForestBrushElement","persistentId":"b4811ab1-0f4e-4527-94ba-839cc5ab1e7f","__parent":"ForestBrush_utah_rocks_small","scaleMax":1.20000005,"scaleMin":0.800000012,"slopeMax":45}
-{"internalName":"Element0","class":"ForestBrushElement","persistentId":"b63912d1-bfd7-4b05-b191-21503153b0c0","__parent":"ForestBrush_Brush"}
 {"internalName":"tree_palm_e","class":"ForestBrushElement","persistentId":"bcdaa752-b1b3-453a-ba39-5957d9679f51","__parent":"ForestBrush_Trees_palm","forestItemData":"tree_palm_e","scaleMax":1.5}
 {"internalName":"utah_greybush_01","class":"ForestBrushElement","persistentId":"c000ecb0-b851-4435-8cb5-f43533c33c83","__parent":"ForestBrushGroup","scaleMax":1.5}
 {"internalName":"tree_douglasfir_small_b","class":"ForestBrushElement","persistentId":"c1245ab9-d2e9-4574-bef4-d5c1e7471c1a","__parent":"ForestBrush_Trees_Douglas_Fir","forestItemData":"tree_douglasfir_small_b","scaleMax":1.29999995,"scaleMin":0.899999976,"slopeMax":40}
@@ -138,5 +137,4 @@
 {"internalName":"grass_field_large","class":"ForestBrushElement","persistentId":"f79e8221-1f70-4d3e-bff9-693936ea1d4f","__parent":"ForestBrush_Grass_mesh","forestItemData":"grass_field_large","scaleExponent":0,"scaleMax":1.20000005,"scaleMin":0.800000012,"sinkRadius":0,"slopeMax":25}
 {"internalName":"tree_beech_overhang_a","class":"ForestBrushElement","persistentId":"f8c6dbc2-de02-4ffa-b836-408224afcc96","__parent":"ForestBrush_Trees_Beech","forestItemData":"tree_beech_overhang_a","scaleMax":1.20000005,"scaleMin":0.800000012,"sinkMax":1.5}
 {"internalName":"oak_forest_a","class":"ForestBrushElement","persistentId":"fd1af2e0-f4b8-4016-ae8e-fe14ac354843","__parent":"ForestBrush_Trees_oak","scaleMax":1.29999995,"scaleMin":0.699999988,"slopeMax":25}
-{"internalName":"Element","class":"ForestBrushElement","persistentId":"fe05c356-02dc-41a8-88b6-7ed883ba93fd","__parent":"ForestBrush_Brush"}
 {"name":"ForestBrushGroup","class":"SimGroup","persistentId":"8d1a64f3-8f7b-4710-9f28-4dd08a2abd0f"}
