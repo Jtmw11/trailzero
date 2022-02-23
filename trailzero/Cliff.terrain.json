@@ -8,14 +8,14 @@
   "layerMapSize": 4194304,
   "materials": [
     "Grass",
-    "Grass",
     "Grass2",
     "RockyDirt",
     "BeachSand",
     "Rock",
     "dirt_grass",
     "grass1",
-    "forest_floor"
+    "forest_floor",
+    "grass1-dry"
   ],
   "size": 2048,
   "version": 8
