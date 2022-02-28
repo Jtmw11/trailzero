@@ -3,3 +3,4 @@
 {"name":"CameraBookmarks","class":"SimGroup","persistentId":"693cc08f-a0ff-4d8f-a059-828cb70d4255","__parent":"MissionGroup"}
 {"name":"Audio","class":"SimGroup","persistentId":"0bc8b0b1-e7df-4bb6-ac3c-b9ec17947739","__parent":"MissionGroup"}
 {"name":"RoadDecals","class":"SimGroup","persistentId":"37e8ae7d-c520-407f-8390-78080de4acfb","__parent":"MissionGroup"}
+{"name":"SFXEmitter_1","class":"SFXEmitter","persistentId":"757cb0b3-bb32-40f7-a32a-1022c5fd9cfd","__parent":"MissionGroup","position":[-63,110,47],"fadeInTime":0,"fadeOutTime":0,"maxDistance":850,"scale":[850,850,850],"sourceGroup":"AudioChannelAmbience"}

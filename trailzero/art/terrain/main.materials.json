@@ -6,7 +6,7 @@
     "detailMap": "/levels/trailzero/art/terrain/Sand-01-D.dds",
     "diffuseMap": "/levels/trailzero/art/terrain/Overlay_Sand-01.dds",
     "diffuseSize": 2048,
-    "groundmodelName": "BEACHSAND",
+    "groundmodelName": "SAND",
     "normalMap": "/levels/trailzero/art/terrain/Sand-01-N.dds"
   },
   "Concrete-1aaf954e-620a-42ad-87c0-4568b17844fa": {
@@ -135,7 +135,7 @@
     "detailStrength": 0.800000012,
     "diffuseMap": "/levels/trailzero/art/terrain/Overlay_RockyDirt.dds",
     "diffuseSize": 2048,
-    "groundmodelName": "ROCKYDIRT",
+    "groundmodelName": "GRAVEL_WET",
     "macroDistance": 800,
     "macroMap": "/levels/trailzero/art/terrain/rockydirt-01-d.dds",
     "macroSize": 20,
