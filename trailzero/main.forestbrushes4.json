@@ -7,7 +7,6 @@
 {"name":"ForestBrush_Trees_oak","internalName":"Trees_oak","class":"ForestBrush","persistentId":"340c7b93-73f6-4eaa-bf7e-ea1f4c71e415","__parent":"ForestBrushGroup","forestItemData":"Trees_oak"}
 {"name":"ForestBrush_ExampleForestBrush","internalName":"ExampleForestBrush","class":"ForestBrush","persistentId":"3956638a-0899-4e2e-a425-89723ae59e2a","__parent":"ForestBrushGroup","forestItemData":"ExampleForestBrush"}
 {"name":"ForestBrush_Grass_mesh","internalName":"Grass_mesh","class":"ForestBrush","persistentId":"4e2b2474-4ecc-4ad8-b39d-59c0d94c8e3f","__parent":"ForestBrushGroup","forestItemData":"Grass_mesh"}
-{"name":"ForestBrush_Brush0","internalName":"Brush0","class":"ForestBrush","persistentId":"782e8a88-cb51-4dcf-ad46-325b10e744fc","__parent":"ForestBrushGroup"}
 {"name":"ForestBrush_Brush1","internalName":"Brush1","class":"ForestBrush","persistentId":"78318391-81ac-49e8-bd18-f529243df3aa","__parent":"ForestBrushGroup"}
 {"name":"ForestBrush_vines","internalName":"vines","class":"ForestBrush","persistentId":"80a5c6fd-2194-42b2-b8cd-c14394df3458","__parent":"ForestBrushGroup","forestItemData":"vines"}
 {"name":"ForestBrush_Trees_Beech","internalName":"Trees_Beech","class":"ForestBrush","persistentId":"9b89ba06-d509-4cbd-9e1a-8f08fe676b12","__parent":"ForestBrushGroup","forestItemData":"Trees_Beech"}
@@ -135,7 +134,6 @@
 {"internalName":"utah_rock_small_e","class":"ForestBrushElement","persistentId":"ee6a38c8-b6a7-4b4b-9025-e441877c6746","__parent":"ForestBrush_utah_rocks_small","scaleMax":1.20000005,"scaleMin":0.800000012,"slopeMax":45}
 {"internalName":"rock_01_a_large_a","class":"ForestBrushElement","persistentId":"ef640013-b49c-4cfc-a980-701857318401","__parent":"ForestBrush_rocks_01_a_large","forestItemData":"rock_01_a_large_a","scaleMax":1.5,"sinkMax":0.200000003,"slopeMax":45}
 {"internalName":"oak_small_a","class":"ForestBrushElement","persistentId":"f094d011-bb0f-44c6-b81b-da9df2594ae2","__parent":"ForestBrush_Trees_oak","scaleMax":1.29999995,"scaleMin":0.699999988,"slopeMax":25}
-{"internalName":"Element19","class":"ForestBrushElement","persistentId":"f3bd27ec-d465-4f56-9ac3-711d8fb5555e","__parent":"ForestBrush_Brush0"}
 {"internalName":"tree_oak_blocker_a","class":"ForestBrushElement","persistentId":"f51f3761-754f-4e58-bee1-9d5d26f9f310","__parent":"ForestBrush_Trees_Blocker","forestItemData":"tree_oak_blocker_a","probability":2,"scaleMax":1.20000005,"scaleMin":0.5,"sinkMax":1,"sinkMin":1,"slopeMax":40}
 {"internalName":"vine_side_8m","class":"ForestBrushElement","persistentId":"f656eaf2-c0f2-4142-9ec5-daeb5fb9f0e8","__parent":"ForestBrush_vines","forestItemData":"vine_side_8m"}
 {"internalName":"tree_beech_small_c","class":"ForestBrushElement","persistentId":"f72d1a94-439e-4fd0-97aa-734ce9d73c7e","__parent":"ForestBrush_Trees_Beech","forestItemData":"tree_beech_small_c","scaleMax":1.20000005,"scaleMin":0.800000012,"sinkMax":0.400000006,"slopeMax":35}
